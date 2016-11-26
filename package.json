@@ -1,0 +1,28 @@
+{
+  "name": "zhuangbi-bot",
+  "version": "0.1.0",
+  "description": "Just a Telegram bot for fun.",
+  "main": "index.js",
+  "author": "viko16 <16viko@gmail.com>",
+  "scripts": {
+    "test": "eslint .",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "node-fetch": "^1.6.3",
+    "node-telegram-bot-api": "^0.24.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-standard": "^6.2.0",
+    "eslint-plugin-promise": "^3.3.0",
+    "eslint-plugin-standard": "^2.0.0"
+  }
+}
