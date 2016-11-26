@@ -1,10 +1,11 @@
 # zhuangbi-bot
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
+[![http://telegram.me/zhuangbi_bot](https://img.shields.io/badge/Telegram-zhuangbi__bot-blue.svg)](http://telegram.me/zhuangbi_bot)
 
 Telegram 上的装逼图搜索机器人，方便随时斗图。作用类似于 @gif
 
-![Screenshot](https://cloud.githubusercontent.com/assets/5064777/20641273/6e906aac-b42f-11e6-997e-c6ba92a29f30.png)
+![Screenshot](https://cloud.githubusercontent.com/assets/5064777/20641413/094cfe8c-b432-11e6-91b3-679d565dcc96.gif)
 
 ## 使用
 1. 加一下 [zhuangbi_bot](http://telegram.me/zhuangbi_bot)
