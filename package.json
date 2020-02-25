@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "viko16 <16viko@gmail.com>",
   "scripts": {
-    "test": "eslint .",
+    "test": "standard",
     "start": "node index.js"
   },
   "keywords": [
@@ -20,9 +20,6 @@
     "node-telegram-bot-api": "^0.24.0"
   },
   "devDependencies": {
-    "eslint": "^3.8.1",
-    "eslint-config-standard": "^6.2.0",
-    "eslint-plugin-promise": "^3.3.0",
-    "eslint-plugin-standard": "^2.0.0"
+    "standard": "^14.3.1"
   }
 }
