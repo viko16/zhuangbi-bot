@@ -16,7 +16,7 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.1",
     "node-telegram-bot-api": "^0.24.0"
   },
   "devDependencies": {
